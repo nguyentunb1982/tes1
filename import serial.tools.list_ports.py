@@ -16,3 +16,4 @@ btn = Button(window, text="Click Tôi", font =("Arial Bold", 10), bg="green", fg
 btn.grid(column=1, row=0)
 lbl.grid(column=0, row=0)
 window.mainloop()
+pridisia
